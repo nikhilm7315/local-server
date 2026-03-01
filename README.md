@@ -48,7 +48,7 @@ If a version number appears, Node.js is installed correctly.
 Create a file named:
 
 ```
-server.js
+index.js
 ```
 
 Paste the provided server code into this file.
@@ -60,7 +60,7 @@ Paste the provided server code into this file.
 Open a terminal in the project folder and run:
 
 ```
-node server.js
+node index.js
 ```
 
 If successful, you will see:
@@ -102,7 +102,7 @@ Hello From Server
 ```
 project-folder/
 │
-└── server.js
+└── index.js
 ```
 
 ---
